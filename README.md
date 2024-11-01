@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Savindu Weththasinghe 👋
 
-<!--
-**savi0303/savi0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an undergraduate student with a passion for technology, software development, and problem-solving. I enjoy building innovative solutions and continuously learning new technologies. On this GitHub, you'll find projects showcasing my skills in software development, web applications, and more!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills and Technologies
+- **Languages**: Java, Python, JavaScript
+- **Web Development**: HTML, CSS, JS
+
+### 🌱 Currently Learning
+I'm exploring web development and diving deeper into backend development to enhance my full-stack capabilities.
+
+### 📫 How to Reach Me
+- Email: savindu.20230439@iit.ac.lk
+
+---
+
+Thank you for stopping by! 😊
