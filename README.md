@@ -16,4 +16,4 @@ I'm exploring web development and diving deeper into front-end development to en
 
 ---
 
-Thank you for stopping by! 😊
+Thank you for stopping by! 😊❤️
