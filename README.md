@@ -9,7 +9,7 @@ I'm an undergraduate student with a passion for technology, software development
 - **Web Development**: HTML, CSS, JS
 
 ### 🌱 Currently Learning
-I'm exploring web development and diving deeper into backend development to enhance my full-stack capabilities.
+I'm exploring web development and diving deeper into front-end development to enhance my full-stack capabilities.
 
 ### 📫 How to Reach Me
 - Email: savindu.20230439@iit.ac.lk
